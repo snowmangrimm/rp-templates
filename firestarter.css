@@ -3,6 +3,15 @@
   --accent2:#333; 
 }
 
+.grimm-team {
+  position:relative;  
+  margin:0px auto;  
+  background:transparent;  
+  width:400px;
+  text-align: right;
+  top: 50px;
+}
+
 .grimm-box {  
   position:relative;  
   margin:0px auto;  
