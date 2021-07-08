@@ -29,6 +29,11 @@
   word-spacing:.75px; 
 }
 
+.grimm-pkmn {
+ position:relative;
+ text-align:right;
+}
+
 .grimm-body {  
   position:relative;  
   padding: 45px 25px 10px;  
