@@ -3,10 +3,10 @@
   --accent2:#333; 
 }
 
-.grimm-team {
+.team-box {
   position:absolute;  
   margin:0px auto;  
-  background:transparent;  
+  background: #e62020;  
   width:400px;
   height:50px;
   text-align: right;
