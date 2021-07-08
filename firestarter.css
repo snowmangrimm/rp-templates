@@ -34,7 +34,7 @@ position:absolute;
 display:block;
 text-align:right;
 margin-right:10px;
-z-index:0;
+z-index:1;
 }
 
 .grimm-body {  
