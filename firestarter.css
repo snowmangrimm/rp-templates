@@ -30,12 +30,11 @@
 }
 
 .grimm-pkmn {
-position:relative; 
-display:block;
-text-align:right;
-margin-right:10px;
-    word-spacing:5px;
-z-index:1;
+  position:relative; 
+  display:block;
+  text-align:right;
+  margin-right:15px;
+  word-spacing:15px;
 }
 
 .grimm-body {  
