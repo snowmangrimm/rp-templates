@@ -18,7 +18,7 @@
 
 .grimm-date {  
   position:absolute;  
-  left:25px; top:25px;  
+  right:25px; top:25px;  
   font-size:10px; 
   text-transform: uppercase;  
   font-weight:bold;  
@@ -32,7 +32,6 @@
 .grimm-pkmn {
  position:absolute;
  text-align:right;
- margin-right:-150px;
 }
 
 .grimm-body {  
