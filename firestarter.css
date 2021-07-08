@@ -30,7 +30,7 @@
 }
 
 .grimm-pkmn {
-position:absolute; 
+position:relative; 
 display:block;
 text-align:right;
 margin-right:10px;
