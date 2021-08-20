@@ -1,5 +1,5 @@
 #james { --accent:#ecb939; --accent2:#333; }
-#finn{ --accent:#90ee90; --accent2:#333; }
+#finn{ --accent:#50C878; --accent2:#333; }
 #max{ --accent:#ADD8E6; --accent2:#333; }
 
 .grimm-box {  position:relative;  margin:0px auto;  background:#333;  width:400px; border-left:4px solid var(--accent); border-top:4px solid var(--accent);  border-bottom:4px solid var(--accent2); border-right:4px solid var(--accent2);;border-radius: 5% 0%; box-shadow: 2.5px 2.5px 2px grey; }
