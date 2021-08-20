@@ -1,0 +1,12 @@
+#james { --accent:#ecb939; --accent2:#333; }
+#finn{ --accent:#228b22; --accent2:#333; }
+#max{ --accent:#4682b4; --accent2:#333; }
+
+.grimm-box {  position:relative;  margin:0px auto;  background:#333;  width:400px; border-left:4px solid var(--accent); border-top:4px solid var(--accent);  border-bottom:4px solid var(--accent2); border-right:4px solid var(--accent2);;border-radius: 5% 0%; box-shadow: 2.5px 2.5px 2px grey; }
+.grimm-date {  position:absolute;  left:25px; top:25px;  font-size:10px; text-transform: uppercase;  font-weight:bold;  color:var(--accent); border-bottom: 1.5px solid var(--accent);  font-family: helvetica;  line-height:16px;  word-spacing:.75px; }
+.grimm-body {  position:relative;  padding: 45px 25px 10px;  color:#f2f2f2;  font-size:12px;  text-align: justify; line-height:18px;  word-spacing:1px;    white-space:pre-wrap; }
+.grimm-body a { text-decoration:none;  color:var(--accent); }
+.grimm-body b { color:var(--accent);  font-size:12,5px; }
+.grimm-body i { color:var(--accent);   font-size:12px; }
+.grimm-tag { border-top: 1.5px solid var(--accent); margin-top:25px; padding-top:5px;  font-size:9px;  text-transform: uppercase;}
+.grimm-tag a {  font-weight:bold;  color:var(--accent);  text-decoration:none; }
