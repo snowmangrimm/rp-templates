@@ -3,7 +3,7 @@
 #max{ --accent:#89CFF0; --accent2:#333; }
 #ryward { --accent:#ff7034; --accent2:#333; }
 #scars { --accent:#BB85AB; --accent2:#333; }
-#nic { --accent:#dc143c; --accent2:#333; }
+#nic { --accent:#bc544b; --accent2:#333; }
 
 .grimm-box {  position:relative;  margin:0px auto;  background:#333;  width:400px; border-left:4px solid var(--accent); border-top:4px solid var(--accent);  border-bottom:4px solid var(--accent2); border-right:4px solid var(--accent2);;border-radius: 5% 0%; box-shadow: 2.5px 2.5px 2px grey; }
 .grimm-date {  position:absolute;  left:25px; top:25px;  font-size:12px; text-transform: uppercase;  font-weight:bold;  color:var(--accent); border-bottom: 1.5px solid var(--accent);  font-family: helvetica;  line-height:16px;  word-spacing:.75px; }
